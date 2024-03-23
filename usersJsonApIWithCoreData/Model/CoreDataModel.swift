@@ -10,3 +10,8 @@
 
 
 import Foundation
+
+struct StoredUsersModel {
+    let userName: String
+    let userEmail: String
+}

@@ -10,3 +10,19 @@
 
 
 import Foundation
+
+struct Users: Codable {
+    let name: String
+    let email: String
+    let address: UsersAddress
+}
+
+struct UsersAddress: Codable {
+    var street: String
+}
+
+
+//
+func x<T>(_ a1: T, a2:T) {
+    return
+}
