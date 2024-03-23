@@ -1,0 +1,23 @@
+//
+// ViewController.swift
+// usersJsonApIWithCoreData
+//
+// Created by Abdirizak Hassan on 3/23/24. 💻
+// Copyright © 2024 Abdirizak Hassan DR X. All Rights Reserved.
+//
+// GitHub: https://github.com/abdorizak
+// Website: https://abdorizak.dev
+
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
